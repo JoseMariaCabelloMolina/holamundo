@@ -1,1 +1,1 @@
-<?php header ("location: Holamundo.html") : ?>
+<?php header ("location: Index.html") : ?>
